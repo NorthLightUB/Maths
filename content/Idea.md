@@ -25,5 +25,5 @@ Narrator: Ok fine I will give you a object which will make this easier.
  lift at certain heights. Then he starts explaining 
 *These lines in this box represents set *
 
-
+[[script]]
 
