@@ -82,4 +82,4 @@ Narrator: Ok fine I will give you a object which will make this easier.
 ----
 
 Script 2
-
+[[Idea]]
