@@ -1,3 +1,9 @@
+---
+title: Site creation requirements
+draft: false
+tags:
+---
+ 
 This is site made using quartz + GitHub + obsidian
 
 > [! Tip] Quartz : Quartz is a static site generator

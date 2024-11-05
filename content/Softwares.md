@@ -1,3 +1,9 @@
+---
+title: Softwares
+draft: false
+tags:
+---
+ 
 
 > [! Warning] Note:
 >  - I am not professional in these softwares. 

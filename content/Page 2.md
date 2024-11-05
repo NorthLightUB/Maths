@@ -1,6 +1,10 @@
-
->[! tip] GRAPH THEORY 
-
+---
+title: Page 2
+draft: false
+tags:
+---
+ >[! tip] GRAPH THEORY 
+ 
 **self loop**: Edge having same initial and terminal vertex.
 ```
   In graph G1, e4 is self loop
