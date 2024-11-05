@@ -3,7 +3,7 @@ title: Page 1
 draft: false
 tags:
 ---
->[! tip] GRAPH THEORY 
+>[!tip] GRAPH THEORY 
 
 **Graph**: A graph G is an ordered pair(V, E) where V is the set of vertices and E is the set of edges
 ```

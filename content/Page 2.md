@@ -3,7 +3,7 @@ title: Page 2
 draft: false
 tags:
 ---
- >[! tip] GRAPH THEORY 
+ >[!tip] GRAPH THEORY 
  
 **self loop**: Edge having same initial and terminal vertex.
 ```
