@@ -2,7 +2,6 @@
 > [! tip] GRAPH THEORY 
 
 
-
 **Graph**: A graph G is an ordered pair(V, E) where V is the set of vertices and E is the set of edges
 ```
   We will denote graph G(V,E) or G(P,Q).Where
