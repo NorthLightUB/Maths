@@ -3,7 +3,8 @@ title: Maths
 draft: false
 tags:
 ---
- > [! Que]
+ > [! abstract] que
+ 
 
 > [!tip] ans
 
