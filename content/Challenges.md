@@ -7,6 +7,9 @@
 >- Voice: Impossible. The voice that is required must be smooth and calming and in certain accent . 
 >- More will emerge, which I will update
 
+---
+[[content/index|index]]
+
 
 
 

@@ -10,5 +10,6 @@ title: Index
 > 4. [[Site creation requirements]]
 > 5. [[Script Idea]]
 > 6. [[Script]]
+> 7. [[Challenges]]
 
 
