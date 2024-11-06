@@ -8,7 +8,7 @@
 >- More will emerge, which I will update
 
 ---
-[[content/index|index]]
+
 
 
 
