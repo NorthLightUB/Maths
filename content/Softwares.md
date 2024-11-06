@@ -11,7 +11,7 @@
 > I only know basics.
 
 > [!Note] **Vs code** (Manim library): 
-Pending.
+> Pending.
 
 >[!tip] **Inkscape**:
 > best for thumbnails and logos and vector drawings
@@ -27,4 +27,4 @@ Pending.
 > 4. Krita ( Its like advanced paint) (not used)
 
 ---
-[[Site creation requirements]] [[content/index|index]]
+[[Site creation requirements]] 

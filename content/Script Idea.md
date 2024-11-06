@@ -10,8 +10,8 @@ Following are the things that should be in script:
      5. Games ( More complex than Tech )
     These are the only ones I know 
 - English has to be only language in the video.
-- Script must not be bland and must not be too much complex.
+- Script must not be boring and must not be too much complex.
 - It must be of such nature if animated it will look good on screen 
 - **I will add other conditions . If I learn new things**
 ---
-[[script]][[content/index|index]]
+[[script]]  [[Challenges]]

@@ -37,4 +37,5 @@ In graph G2, v4 is odd vertex
 ```
 
 ---
-**Previous:** [[Page 1]][[content/index|index]]
+**Previous:** [[Page 1]]
+Next:[[Softwares]]
