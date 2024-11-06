@@ -9,7 +9,7 @@ title: Index
 > 3. [[Softwares]]
 > 4. [[Site creation requirements]]
 > 5. [[Script Idea]]
-> 6. [[Script]]
+> 6. [[script]]
 > 7. [[Challenges]]
 
 
