@@ -18,4 +18,4 @@
   ```
 
 ---
-**Next :** [[Page 2]]
+**Next :** [[Page 2]][[content/index|index]]

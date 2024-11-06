@@ -13,10 +13,10 @@
 > [!Note] **Vs code** (Manim library): 
 Pending.
 
->[! tip] **Inkscape**:
+>[!tip] **Inkscape**:
 > best for thumbnails and logos and vector drawings
 
-> [! Video editing]
+> [!Video editing]
 > 1. currently doing with MS clipchamp
 > others are blender or shotcut
 
@@ -25,3 +25,6 @@ Pending.
 > 2. Adobe animate( I think this is the best for animation )( inaccessible )
 > 3. pivot animator ( not good )
 > 4. Krita ( Its like advanced paint) (not used)
+
+---
+[[Site creation requirements]] [[content/index|index]]

@@ -5,4 +5,5 @@ This is site made using quartz + GitHub + obsidian
 
 > [!Note] GitHub: we have to sync these notes to GitHub which will host our site online
 
- 
+ ---
+ [[Softwares]][[content/index|index]]

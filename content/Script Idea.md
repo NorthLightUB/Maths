@@ -14,4 +14,4 @@ Following are the things that should be in script:
 - It must be of such nature if animated it will look good on screen 
 - **I will add other conditions . If I learn new things**
 ---
-[[script]]
+[[script]][[content/index|index]]
