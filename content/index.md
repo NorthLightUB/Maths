@@ -1,7 +1,7 @@
 ---
 title: Index
 ---
-> [!Note] I am working on something
+> [!Note] I am working on something. please wait
 
  > [!example] Must proceed in following manner:
 
