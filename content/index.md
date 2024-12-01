@@ -13,4 +13,5 @@ title: Index
 > 5. [[Script Idea]]
 > 6. [[script]]
 > 7. [[Challenges]]
+> 8. [[index.canvas|index]]
 
